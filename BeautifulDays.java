@@ -1,5 +1,5 @@
 
-/* url: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?h_r=next-challenge&h_v=zen&isFullScreen=false /*
+/* url: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?h_r=next-challenge&h_v=zen&isFullScreen=false */
 static int getCount(String str, int k){
         StringBuilder sb = new StringBuilder(str);
 
